@@ -303,6 +303,7 @@ module.exports = {
       showForumNewTopicsAndNewestTorrents: false,
       showTopLevelTorrents: false,
       showAlbumsList: true,
+      showButton: true,
       backgroundImageFrom: 'movie',
       bodyBackgroundImage: 'https://image.tmdb.org/t/p/w1280/cnKAGbX1rDkAquF2V1wVkptHDJO.jpg',
       buttonList: [
